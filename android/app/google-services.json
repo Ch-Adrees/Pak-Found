@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1017111302384",
+    "firebase_url": "https://zainspakfound-default-rtdb.firebaseio.com",
+    "project_id": "zainspakfound",
+    "storage_bucket": "zainspakfound.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017111302384:android:735e3250ebfb2348bff235",
+        "android_client_info": {
+          "package_name": "com.example.pakfoundf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017111302384-hei186nsp9kgbo1fq3rdomnvqu53tmfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pakfoundf",
+            "certificate_hash": "2dd3fab9c230b36b5bdd7f027edf96c786207840"
+          }
+        },
+        {
+          "client_id": "1017111302384-f8o7ht6m7n55lelgk71u9o3s23h3olf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkA3e37Ueyi_kev8ZorFP9lLMpHmtsTJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017111302384-f8o7ht6m7n55lelgk71u9o3s23h3olf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome to PakFound",
+  "description": "A Platform for finding lost items and reuniting them with their owners.",
+  "getStarted": "Get Started",
+  "reportLostItem": "Report Lost Item",
+  "manageFoundItems": "Manage Found Items",
+  "marketplace": "Marketplace",
+  "secureChat": "Secure Chat"
+}
